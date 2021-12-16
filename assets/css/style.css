@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #5a656e;
+  color: #a37b73;
 }
 
 a {
-  color: #d43076;
+  color: #c46d5e;
   text-decoration: none;
 }
 
 a:hover {
-  color: #dd5a92;
+  color: #644536;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #2c4964;
